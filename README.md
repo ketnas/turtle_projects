@@ -25,21 +25,28 @@
 
 ![image](https://github.com/ketnas/turtle_projects/assets/36123831/5d264724-c78f-4098-a78a-be27a8c48020)
 
+ตัวอย่าง : [เกมจับคู่](https://youtu.be/SjEQ-ZO3hSk)
 
-8. เกมงู
+5. Snake game
 
 ![image](https://github.com/ketnas/turtle_projects/assets/36123831/23c564ff-214e-4ed5-9267-9b066a330c82)
 
-10. Space Invaders game
+ตัวอย่าง : [Snake game](https://youtu.be/b7WpRFx4p_U)
+
+6. Space Invaders game
 
 ![image](https://github.com/ketnas/turtle_projects/assets/36123831/12d76e83-3226-47bb-a538-1ae05dc48e1b)
 
+ตัวอย่าง : [Space Invaders](https://youtu.be/UnJVk_2zjBA)
 
-11. เกม Tic-Tac-Toe
+7. เกม Tic-Tac-Toe
 
 ![image](https://github.com/ketnas/turtle_projects/assets/36123831/5ce041af-4411-4f0c-ab80-ad1e39ed7f3b)
 
+ตัวอย่าง : [Tic-Tac-Toe](https://youtube.com/shorts/KT1wLnMTmBk?feature=share)
 
+8. 8-Puzzle game
 
-12. 8-puzzle game
 ![image](https://github.com/ketnas/turtle_projects/assets/36123831/c5326fd2-1475-4caa-acd1-e11e390cfaad)
+
+ตัวอย่าง : [8-Puzzle](https://youtu.be/i0XIIRXc0yI)
