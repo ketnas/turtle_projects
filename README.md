@@ -1,5 +1,5 @@
 # Python projects : Turtle Library
-โปรเจคทั้งนี้จัดทำโดยใช้ ภาษา Python และใช้ library ที่ชื่อว่า turtle
+โปรเจคทั้งหมดนี้จัดทำโดยใช้ ภาษา Python และใช้ library ที่ชื่อว่า turtle
 
 ถ้าใครสนใจ สามารถ Download ไปลองเล่นได้เลย
 
